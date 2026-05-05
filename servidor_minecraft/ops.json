@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "32afc210-3798-3e6c-992e-cbfeebbd9089",
+    "name": "Bardosius",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fe8a1a38-4ff9-37d1-b4cc-54ae0ee42baa",
+    "name": "badosius",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

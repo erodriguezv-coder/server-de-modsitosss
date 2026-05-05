@@ -1,0 +1,1110 @@
+[05May2026 21:46:18.112] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[05May2026 21:46:18.115] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.30 by Ubuntu
+[05May2026 21:46:18.343] [main/WARN] [CrashAssistantJarInJarHelper/]: launchTarget: fmlserver. Crash Assistant is client only mod. Mod will do nothing!
+[05May2026 21:46:18.498] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[05May2026 21:46:18.570] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server-de-modsitosss/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[05May2026 21:46:19.333] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.422] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.430] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.439] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.453] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.459] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.465] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.475] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.480] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.485] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.489] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.497] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.506] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.512] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.518] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.523] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.531] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.536] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.544] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.550] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.554] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.557] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.560] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.566] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.572] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.576] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.579] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.582] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.588] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.591] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.594] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.597] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.600] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.603] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.607] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.610] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:19.616] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[05May2026 21:46:21.803] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.wuest.prefab.MixinConnector]
+[05May2026 21:46:21.808] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[05May2026 21:46:21.810] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.botania.common.MixinConnector]
+[05May2026 21:46:21.813] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[05May2026 21:46:21.818] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[05May2026 21:46:21.895] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 30 options available, 1 override(s) found
+[05May2026 21:46:21.906] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[05May2026 21:46:21.907] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[05May2026 21:46:21.923] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[05May2026 21:46:21.926] [main/WARN] [mixin/]: Reference map 'nethers_delight.refmap.json' for nethers_delight.mixins.json could not be read. If this is a development environment you can ignore this message
+[05May2026 21:46:22.268] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05May2026 21:46:22.422] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[05May2026 21:46:22.501] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[05May2026 21:46:23.675] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[05May2026 21:46:23.905] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER
+[05May2026 21:46:23.906] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/entity/player/ClientPlayerEntity (java.lang.RuntimeException: Attempted to load class net/minecraft/client/entity/player/ClientPlayerEntity for invalid dist DEDICATED_SERVER)
+[05May2026 21:46:23.906] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.entity.player.ClientPlayerEntity was not found ars_nouveau.mixins.json:ClientElytraMixin
+[05May2026 21:46:24.090] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/ItemRenderer for invalid dist DEDICATED_SERVER
+[05May2026 21:46:24.091] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/ItemRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/ItemRenderer for invalid dist DEDICATED_SERVER)
+[05May2026 21:46:24.092] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.ItemRenderer was not found fusion.mixins.json:rubidium.ItemRendererMixinRubidium
+[05May2026 21:46:25.546] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05May2026 21:46:25.561] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#blockUsingShield
+[05May2026 21:46:25.565] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching LivingEntity#applyPotionDamageCalculations
+[05May2026 21:46:25.639] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[05May2026 21:46:25.990] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentModifierDamage
+[05May2026 21:46:26.052] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getModifierForCreature
+[05May2026 21:46:26.111] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyThornEnchantments
+[05May2026 21:46:26.176] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyArthropodEnchantments
+[05May2026 21:46:26.212] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching buildEnchantmentList for the Enchantability affix.
+[05May2026 21:46:26.248] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentDatas
+[05May2026 21:46:26.600] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[05May2026 21:46:26.905] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching SharedMonsterAttributes#readAttributeModifier
+[05May2026 21:46:27.319] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[05May2026 21:46:27.334] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully removed the anvil level cap.
+[05May2026 21:46:27.380] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching RepairContainer#updateRepairOutput
+[05May2026 21:46:27.418] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Successfully allowed nbt-unbreakable items in the anvil.
+[05May2026 21:46:27.454] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/inventory/container/RepairContainer
+[05May2026 21:46:28.052] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CampfireTileEntity#findMatchingRecipe
+[05May2026 21:46:29.197] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching TemptGoal#isTempting
+[05May2026 21:46:29.680] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[05May2026 21:46:31.625] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching ItemArrow#isInfinite
+[05May2026 21:46:31.886] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/item/EnchantedBookItem
+[05May2026 21:46:32.032] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#onItemRightClick
+[05May2026 21:46:32.142] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CrossbowItem#fireProjectile
+[05May2026 21:46:32.512] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingBobberEntity#catchingFish
+[05May2026 21:46:33.041] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/loot/functions/EnchantRandomly
+[05May2026 21:46:34.529] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:34.534] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:34.534] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:34.535] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:34.898] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `rats` for name `synesthesia`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:34.898] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `rats` for name `plague`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:35.209] [modloading-worker-2/INFO] [red.felnull.otyacraftengine.OtyacraftEngine/]: Loading Client Config
+[05May2026 21:46:35.246] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[05May2026 21:46:35.440] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[05May2026 21:46:35.444] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[05May2026 21:46:35.449] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[05May2026 21:46:35.451] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[05May2026 21:46:35.456] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[05May2026 21:46:35.464] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[05May2026 21:46:35.485] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[05May2026 21:46:35.502] [modloading-worker-2/INFO] [com.wuest.prefab.Prefab/]: Built TOML config for /workspaces/server-de-modsitosss/servidor_minecraft/config/prefab.toml
+[05May2026 21:46:35.503] [modloading-worker-2/INFO] [com.wuest.prefab.Prefab/]: Loaded TOML config file /workspaces/server-de-modsitosss/servidor_minecraft/config/prefab.toml
+[05May2026 21:46:35.534] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[05May2026 21:46:35.565] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[05May2026 21:46:35.570] [modloading-worker-3/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[05May2026 21:46:35.821] [modloading-worker-2/INFO] [xaero.lib.XaeroLib/]: Registering common data for channel xaerolib:main!
+[05May2026 21:46:35.830] [modloading-worker-3/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[05May2026 21:46:35.853] [modloading-worker-2/INFO] [xaero.lib.XaeroLib/]: Loading primary common config for channel xaerolib:main!
+[05May2026 21:46:35.873] [modloading-worker-2/INFO] [xaero.lib.XaeroLib/]: Loading server config profiles for channel xaerolib:main!
+[05May2026 21:46:35.952] [modloading-worker-1/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[05May2026 21:46:36.053] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[05May2026 21:46:36.141] [modloading-worker-1/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[05May2026 21:46:36.277] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[05May2026 21:46:36.642] [modloading-worker-1/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[05May2026 21:46:36.900] [modloading-worker-3/INFO] [coroutil/]: forge loader environment detected
+[05May2026 21:46:36.993] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[05May2026 21:46:36.994] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[05May2026 21:46:38.696] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[05May2026 21:46:39.085] [modloading-worker-2/INFO] [twilightforest/]: Loaded compatibility for mod immersiveengineering.
+[05May2026 21:46:40.231] [modloading-worker-2/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[05May2026 21:46:40.499] [modloading-worker-2/INFO] [xaero.common.HudMod/]: Registering common data for channel xaerominimap:main!
+[05May2026 21:46:40.642] [modloading-worker-2/INFO] [xaero.common.HudMod/]: Loading primary common config for channel xaerominimap:main!
+[05May2026 21:46:40.645] [modloading-worker-2/INFO] [xaero.common.HudMod/]: Loading server config profiles for channel xaerominimap:main!
+[05May2026 21:46:42.610] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[05May2026 21:46:42.610] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[05May2026 21:46:43.093] [modloading-worker-3/INFO] [expandability/]: ExpandAbility here, who dis?
+[05May2026 21:46:44.758] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.759] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.759] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.767] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.770] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.772] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.773] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.774] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cactus`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.775] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.775] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sugar_cane`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.776] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.776] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bamboo`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.779] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:44.779] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fletching_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:47.306] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shears`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:47.308] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:47.308] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `chipped_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:47.308] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `damaged_anvil`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:47.317] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spawner`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:47.868] [main/INFO] [Spartan Shields/]: Registering Items
+[05May2026 21:46:47.869] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[05May2026 21:46:48.039] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 150 ms
+[05May2026 21:46:48.136] [main/INFO] [Spartan Weaponry/]: Registering items...
+[05May2026 21:46:48.141] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[05May2026 21:46:48.429] [main/INFO] [Bookshelf/]: Registered 11 GlobalLootModifierSerializer entries in 1.45ms.
+[05May2026 21:46:48.545] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `enchanting_table`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.901] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `bane_of_arthropods`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.902] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `smite`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.902] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `sharpness`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.903] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.903] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `fire_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.903] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `blast_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.903] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `projectile_protection`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.904] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `feather_falling`, expected `apotheosis`. This could be a intended override, but in most cases indicates a broken mod.
+[05May2026 21:46:48.907] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[05May2026 21:46:48.908] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[05May2026 21:46:49.098] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.thescelosaurus has been registered twice for the same name prehistoricfauna:thescelosaurus.
+[05May2026 21:46:49.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.triceratops has been registered twice for the same name prehistoricfauna:triceratops.
+[05May2026 21:46:49.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ankylosaurus has been registered twice for the same name prehistoricfauna:ankylosaurus.
+[05May2026 21:46:49.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.tyrannosaurus has been registered twice for the same name prehistoricfauna:tyrannosaurus.
+[05May2026 21:46:49.099] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.basilemys has been registered twice for the same name prehistoricfauna:basilemys.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.dakotaraptor has been registered twice for the same name prehistoricfauna:dakotaraptor.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.didelphodon has been registered twice for the same name prehistoricfauna:didelphodon.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.protoceratops has been registered twice for the same name prehistoricfauna:protoceratops.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.velociraptor has been registered twice for the same name prehistoricfauna:velociraptor.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.citipati has been registered twice for the same name prehistoricfauna:citipati.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.aepyornithomimus has been registered twice for the same name prehistoricfauna:aepyornithomimus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.telmasaurus has been registered twice for the same name prehistoricfauna:telmasaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.pinacosaurus has been registered twice for the same name prehistoricfauna:pinacosaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.plesiohadros has been registered twice for the same name prehistoricfauna:plesiohadros.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.allosaurus has been registered twice for the same name prehistoricfauna:allosaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.stegosaurus has been registered twice for the same name prehistoricfauna:stegosaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ceratosaurus has been registered twice for the same name prehistoricfauna:ceratosaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.dryosaurus has been registered twice for the same name prehistoricfauna:dryosaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.hesperornithoides has been registered twice for the same name prehistoricfauna:hesperornithoides.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.eilenodon has been registered twice for the same name prehistoricfauna:eilenodon.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.camarasaurus has been registered twice for the same name prehistoricfauna:camarasaurus.
+[05May2026 21:46:49.100] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.calsoyasuchus has been registered twice for the same name prehistoricfauna:calsoyasuchus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.dilophosaurus has been registered twice for the same name prehistoricfauna:dilophosaurus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.sarahsaurus has been registered twice for the same name prehistoricfauna:sarahsaurus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.scelidosaurus has been registered twice for the same name prehistoricfauna:scelidosaurus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.scutellosaurus has been registered twice for the same name prehistoricfauna:scutellosaurus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.megapnosaurus has been registered twice for the same name prehistoricfauna:megapnosaurus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.kayentatherium has been registered twice for the same name prehistoricfauna:kayentatherium.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.postosuchus has been registered twice for the same name prehistoricfauna:postosuchus.
+[05May2026 21:46:49.101] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.desmatosuchus has been registered twice for the same name prehistoricfauna:desmatosuchus.
+[05May2026 21:46:49.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.trilophosaurus has been registered twice for the same name prehistoricfauna:trilophosaurus.
+[05May2026 21:46:49.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.saurichthys has been registered twice for the same name prehistoricfauna:saurichthys.
+[05May2026 21:46:49.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.arganodus has been registered twice for the same name prehistoricfauna:arganodus.
+[05May2026 21:46:49.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.mooreodontus has been registered twice for the same name prehistoricfauna:mooreodontus.
+[05May2026 21:46:49.104] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.chinlea has been registered twice for the same name prehistoricfauna:chinlea.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.placerias has been registered twice for the same name prehistoricfauna:placerias.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.coelophysis has been registered twice for the same name prehistoricfauna:coelophysis.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.poposaurus has been registered twice for the same name prehistoricfauna:poposaurus.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.typothorax has been registered twice for the same name prehistoricfauna:typothorax.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.exaeretodon has been registered twice for the same name prehistoricfauna:exaeretodon.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.chromogisaurus has been registered twice for the same name prehistoricfauna:chromogisaurus.
+[05May2026 21:46:49.105] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.herrerasaurus has been registered twice for the same name prehistoricfauna:herrerasaurus.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.hyperodapedon has been registered twice for the same name prehistoricfauna:hyperodapedon.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.sillosuchus has been registered twice for the same name prehistoricfauna:sillosuchus.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.saurosuchus has been registered twice for the same name prehistoricfauna:saurosuchus.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ischigualastia has been registered twice for the same name prehistoricfauna:ischigualastia.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.henos has been registered twice for the same name prehistoricfauna:henos.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.trilobite_sentinel has been registered twice for the same name prehistoricfauna:trilobite_sentinel.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.land_sentinel has been registered twice for the same name prehistoricfauna:land_sentinel.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ankylosaurus_skull has been registered twice for the same name prehistoricfauna:ankylosaurus_skull.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.triceratops_skull has been registered twice for the same name prehistoricfauna:triceratops_skull.
+[05May2026 21:46:49.107] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.saurosuchus_skull has been registered twice for the same name prehistoricfauna:saurosuchus_skull.
+[05May2026 21:46:49.108] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.herrerasaurus_skull has been registered twice for the same name prehistoricfauna:herrerasaurus_skull.
+[05May2026 21:46:49.108] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.stegosaurus_skull has been registered twice for the same name prehistoricfauna:stegosaurus_skull.
+[05May2026 21:46:49.108] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ceratosaurus_skull has been registered twice for the same name prehistoricfauna:ceratosaurus_skull.
+[05May2026 21:46:49.108] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.triceratops_skeleton has been registered twice for the same name prehistoricfauna:triceratops_skeleton.
+[05May2026 21:46:49.108] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ankylosaurus_skeleton has been registered twice for the same name prehistoricfauna:ankylosaurus_skeleton.
+[05May2026 21:46:49.108] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ceratosaurus_skeleton has been registered twice for the same name prehistoricfauna:ceratosaurus_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.herrerasaurus_skeleton has been registered twice for the same name prehistoricfauna:herrerasaurus_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ischigualastia_skeleton has been registered twice for the same name prehistoricfauna:ischigualastia_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.allosaurus_skeleton has been registered twice for the same name prehistoricfauna:allosaurus_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.saurosuchus_skeleton has been registered twice for the same name prehistoricfauna:saurosuchus_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.stegosaurus_skeleton has been registered twice for the same name prehistoricfauna:stegosaurus_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.allosaurus_skull has been registered twice for the same name prehistoricfauna:allosaurus_skull.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ischigualastia_skull has been registered twice for the same name prehistoricfauna:ischigualastia_skull.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.tyrannosaurus_skull has been registered twice for the same name prehistoricfauna:tyrannosaurus_skull.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.tyrannosaurus_skeleton has been registered twice for the same name prehistoricfauna:tyrannosaurus_skeleton.
+[05May2026 21:46:49.109] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.velociraptor_skull has been registered twice for the same name prehistoricfauna:velociraptor_skull.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.velociraptor_skeleton has been registered twice for the same name prehistoricfauna:velociraptor_skeleton.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.protoceratops_skull has been registered twice for the same name prehistoricfauna:protoceratops_skull.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.protoceratops_skeleton has been registered twice for the same name prehistoricfauna:protoceratops_skeleton.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.postosuchus_skull has been registered twice for the same name prehistoricfauna:postosuchus_skull.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.plesiohadros_skull has been registered twice for the same name prehistoricfauna:plesiohadros_skull.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.scelidosaurus_skull has been registered twice for the same name prehistoricfauna:scelidosaurus_skull.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.coelophysis_skull has been registered twice for the same name prehistoricfauna:coelophysis_skull.
+[05May2026 21:46:49.110] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.coelophysis_skeleton has been registered twice for the same name prehistoricfauna:coelophysis_skeleton.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.dilophosaurus_skull has been registered twice for the same name prehistoricfauna:dilophosaurus_skull.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.desmatosuchus_skull has been registered twice for the same name prehistoricfauna:desmatosuchus_skull.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.plesiohadros_skeleton has been registered twice for the same name prehistoricfauna:plesiohadros_skeleton.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.desmatosuchus_skeleton has been registered twice for the same name prehistoricfauna:desmatosuchus_skeleton.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.postosuchus_skeleton has been registered twice for the same name prehistoricfauna:postosuchus_skeleton.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.sarahsaurus_skull has been registered twice for the same name prehistoricfauna:sarahsaurus_skull.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.sarahsaurus_skeleton has been registered twice for the same name prehistoricfauna:sarahsaurus_skeleton.
+[05May2026 21:46:49.111] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.dilophosaurus_skeleton has been registered twice for the same name prehistoricfauna:dilophosaurus_skeleton.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.scelidosaurus_skeleton has been registered twice for the same name prehistoricfauna:scelidosaurus_skeleton.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.myledaphus has been registered twice for the same name prehistoricfauna:myledaphus.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.gar has been registered twice for the same name prehistoricfauna:gar.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.cyclurus has been registered twice for the same name prehistoricfauna:cyclurus.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.ceratodus has been registered twice for the same name prehistoricfauna:ceratodus.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.potamoceratodus has been registered twice for the same name prehistoricfauna:potamoceratodus.
+[05May2026 21:46:49.112] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.wall_fossil has been registered twice for the same name prehistoricfauna:wall_fossil.
+[05May2026 21:46:49.113] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.boat has been registered twice for the same name prehistoricfauna:boat.
+[05May2026 21:46:49.113] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: The object entity.prehistoricfauna.paleopainting has been registered twice for the same name prehistoricfauna:paleopainting.
+[05May2026 21:46:49.316] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.316] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat_spawner, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.317] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:pied_piper, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.321] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:plague_doctor, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.321] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:black_death, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.322] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:plague_cloud, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.323] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:plague_beast, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.323] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat_mount_chicken, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.326] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.rats.server.entity.ratlantis.EntityFeralRatlantean from class com.github.alexthe666.rats.server.entity.EntityRatBeastMount
+[05May2026 21:46:49.327] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat_mount_beast, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.328] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat_king, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.328] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:demon_rat, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.328] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat_mount_strider, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.328] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for rats:rat_mount_golem, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:49.345] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[05May2026 21:46:49.900] [main/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.client.particle.ModParticles:registerParticles:23]: Rendering particles
+[05May2026 21:46:49.980] [main/INFO] [Bookshelf/]: Registered 22 ingredient serializers.
+[05May2026 21:46:49.983] [main/INFO] [Bookshelf/]: Registered 5 IRecipeSerializer entries in 1.24ms.
+[05May2026 21:46:50.581] [main/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: PF: Biomes registered!
+[05May2026 21:46:50.610] [main/INFO] [STDOUT/]: [superlord.prehistoricfauna.PrehistoricFauna$PFWorldGenRegistries:registerDecorators:781]: Registered decorators!
+[05May2026 21:46:50.688] [main/INFO] [STDOUT/]: [superlord.prehistoricfauna.PrehistoricFauna$PFWorldGenRegistries:registerFeatures:753]: Registered features!
+[05May2026 21:46:51.118] [main/INFO] [superlord.prehistoricfauna.PrehistoricFauna/]: PF: Surface builders registered!
+[05May2026 21:46:51.159] [main/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class org.infernalstudios.infernalexp.entities.ShroomloinEntity from class org.infernalstudios.infernalexp.entities.WarpbeetleEntity
+[05May2026 21:46:51.570] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[05May2026 21:46:51.571] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[05May2026 21:46:51.572] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[05May2026 21:46:51.976] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib common 1/2!
+[05May2026 21:46:52.116] [modloading-worker-3/INFO] [Dungeon Crawl/]: Common Setup
+[05May2026 21:46:52.136] [modloading-worker-3/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[05May2026 21:46:52.137] [modloading-worker-3/INFO] [Dungeon Crawl/]: minecraft:overworld
+[05May2026 21:46:52.137] [modloading-worker-3/INFO] [Bookshelf/]: Registering 3 command argument types.
+[05May2026 21:46:52.141] [modloading-worker-3/INFO] [Bookshelf/]: Registering 13 loot conditions.
+[05May2026 21:46:52.346] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentModifierDamage
+[05May2026 21:46:52.353] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getModifierForCreature
+[05May2026 21:46:52.360] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyThornEnchantments
+[05May2026 21:46:52.398] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#applyArthropodEnchantments
+[05May2026 21:46:52.435] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching buildEnchantmentList for the Enchantability affix.
+[05May2026 21:46:52.440] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:allosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.440] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:allosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.440] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:allosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.441] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ankylosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.441] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ankylosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.441] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ankylosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.441] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:basilemys, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.442] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:camarasaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.442] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ceratosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.442] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ceratosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.448] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ceratosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.454] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:chromogisaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.455] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:dakotaraptor, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.456] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:didelphodon, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.457] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:dryosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.457] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:eilenodon, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.457] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:exaeretodon, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.458] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:herrerasaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.463] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:herrerasaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.463] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:herrerasaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.464] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:hesperornithoides, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.469] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:hyperodapedon, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.470] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:protoceratops, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.470] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ischigualastia, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.470] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ischigualastia_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.470] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ischigualastia_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.470] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:saurosuchus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.470] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:saurosuchus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.471] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:saurosuchus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.471] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:sillosuchus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.471] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:stegosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.471] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:stegosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.471] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:stegosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.471] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:thescelosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.472] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:henos, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.472] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:triceratops, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.466] [modloading-worker-1/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching EnchantmentHelper#getEnchantmentDatas
+[05May2026 21:46:52.479] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:triceratops_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.479] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:triceratops_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:tyrannosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:tyrannosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:tyrannosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:trilobite_sentinel, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:land_sentinel, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:myledaphus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:gar, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:cyclurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:ceratodus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.480] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:potamoceratodus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.481] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:velociraptor, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.484] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:citipati, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.485] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:aepyornithomimus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.485] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:telmasaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.485] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:pinacosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.492] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:plesiohadros, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.493] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:velociraptor_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.495] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:velociraptor_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.495] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:protoceratops_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.497] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:protoceratops_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.497] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:dilophosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.500] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:sarahsaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.501] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:scelidosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.501] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:scutellosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.501] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:megapnosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.502] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:kayentatherium, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.504] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:postosuchus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.504] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:plesiohadros_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.505] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:scelidosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.505] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:trilophosaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.508] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:saurichthys, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.508] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:chinlea, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.508] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:mooreodontus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.508] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:arganodus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.509] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:coelophysis_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.512] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:coelophysis_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.513] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:calsoyasuchus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.513] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:desmatosuchus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.513] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:postosuchus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.513] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:placerias, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.514] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:coelophysis, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.514] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:poposaurus, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/update_check.json
+[05May2026 21:46:52.516] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:dilophosaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.517] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:typothorax, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.518] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:desmatosuchus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.521] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:plesiohadros_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.522] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:desmatosuchus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.525] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:postosuchus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.526] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:sarahsaurus_skull, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.526] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:sarahsaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.526] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:dilophosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.526] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for prehistoricfauna:scelidosaurus_skeleton, use EntityAttributeCreationEvent instead.
+[05May2026 21:46:52.685] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[05May2026 21:46:52.923] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[05May2026 21:46:52.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[05May2026 21:46:52.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.2.6 Target: null
+[05May2026 21:46:52.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Starting version check at https://infernalstudios.org/api/mods/infernalexpansion/forge
+[05May2026 21:46:52.986] [modloading-worker-1/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[05May2026 21:46:53.045] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[05May2026 21:46:53.045] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[05May2026 21:46:53.045] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[05May2026 21:46:53.045] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[05May2026 21:46:53.045] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[05May2026 21:46:53.046] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[05May2026 21:46:53.046] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[05May2026 21:46:53.046] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[05May2026 21:46:53.046] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[05May2026 21:46:53.049] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[05May2026 21:46:53.109] [modloading-worker-1/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[05May2026 21:46:53.149] [modloading-worker-1/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[05May2026 21:46:53.190] [modloading-worker-1/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.common.capability.ManaCapability:register:62]: Finished Registering ManaCapability
+[05May2026 21:46:53.193] [modloading-worker-1/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.api.familiar.FamiliarCap:register:97]: Finished Registering FamiliarCap
+[05May2026 21:46:53.222] [modloading-worker-1/INFO] [STDOUT/]: [com.hollingsworth.arsnouveau.common.network.Networking:registerMessages:27]: Registering packets!!
+[05May2026 21:46:53.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalexp] Found status: AHEAD Current: 2.5.0 Target: null
+[05May2026 21:46:53.481] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[05May2026 21:46:53.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prefab] Starting version check at https://raw.githubusercontent.com/Brian-Wuest/MC-Prefab/Main/changeLog.json
+[05May2026 21:46:53.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prefab] Found status: UP_TO_DATE Current: 1.6.5.16 Target: null
+[05May2026 21:46:53.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.16.5
+[05May2026 21:46:53.687] [main/INFO] [STDOUT/]: [superlord.prehistoricfauna.PrehistoricFauna:lambda$setupBiomesAndDimensions$5:355]: Added biomes!
+[05May2026 21:46:53.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 6.0.0.28 Target: 6.0.0.28
+[05May2026 21:46:53.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.16.5
+[05May2026 21:46:53.921] [modloading-worker-1/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib server 1/2!
+[05May2026 21:46:53.922] [modloading-worker-1/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[05May2026 21:46:53.936] [main/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib common 2/2!
+[05May2026 21:46:53.945] [main/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib server 2/2!
+[05May2026 21:46:53.945] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[05May2026 21:46:53.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA_OUTDATED Current: 7.0.0.29 Target: 7.0.0.31
+[05May2026 21:46:53.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.16.5
+[05May2026 21:46:54.072] [modloading-worker-2/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[05May2026 21:46:54.082] [modloading-worker-2/INFO] [Waila/]: Registered plugin at shadows.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[05May2026 21:46:54.083] [modloading-worker-2/INFO] [Waila/]: Registered plugin at shadows.apotheosis.ench.compat.EnchHwylaPlugin
+[05May2026 21:46:54.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 10.4.33 Target: 10.4.33
+[05May2026 21:46:54.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[05May2026 21:46:54.100] [modloading-worker-2/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[05May2026 21:46:54.113] [modloading-worker-2/INFO] [Waila/]: Registered plugin at com.blakebr0.mysticalagriculture.compat.HwylaCompat
+[05May2026 21:46:54.127] [modloading-worker-2/INFO] [Waila/]: Registered plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
+[05May2026 21:46:54.136] [modloading-worker-2/INFO] [Waila/]: Registered plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[05May2026 21:46:54.147] [modloading-worker-2/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[05May2026 21:46:54.161] [modloading-worker-2/INFO] [Waila/]: Registered plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[05May2026 21:46:54.172] [modloading-worker-2/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[05May2026 21:46:54.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 3.2.1.378 Target: null
+[05May2026 21:46:54.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05May2026 21:46:54.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[05May2026 21:46:54.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.16.x/update.json
+[05May2026 21:46:54.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: NONE Target: null
+[05May2026 21:46:54.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [infernalmobs] Starting version check at http://www.atomicstryker.net/updatemanager/infernalmobs.json
+[05May2026 21:46:57.004] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[05May2026 21:46:57.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchantmentdescriptions&gv=1.16.5
+[05May2026 21:46:57.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 7.1.27 Target: 7.1.27
+[05May2026 21:46:57.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
+[05May2026 21:46:57.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.16.5-5.1.0-148 Target: null
+[05May2026 21:46:57.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://maxhenkel.de/update/easy_villagers.json
+[05May2026 21:46:58.432] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[05May2026 21:46:58.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[05May2026 21:46:58.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.10.1 Target: null
+[05May2026 21:46:58.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[05May2026 21:46:58.661] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 6.9.7 Target: null
+[05May2026 21:46:58.661] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[05May2026 21:46:58.796] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2019) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2014) ~[?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2013) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1575) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1559) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1963) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1559) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
+	... 3 more
+[05May2026 21:46:58.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vehicle] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/vehicle/update.json
+[05May2026 21:46:58.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [vehicle] Found status: BETA Current: 0.45.2 Target: null
+[05May2026 21:46:58.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[05May2026 21:46:58.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 1.0.15 Target: null
+[05May2026 21:46:58.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
+[05May2026 21:46:58.870] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[05May2026 21:46:58.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[05May2026 21:46:58.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 1.0.2 Target: null
+[05May2026 21:47:03.648] [main/ERROR] [net.minecraft.util.registry.WorldSettingsImport/]: Error adding element: Base value out of range: 256 [-10-128]
+[05May2026 21:47:04.727] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05May2026 21:47:05.271] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/command/impl/EnchantCommand
+[05May2026 21:47:05.678] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05May2026 21:47:05.680] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05May2026 21:47:05.682] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05May2026 21:47:05.683] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05May2026 21:47:05.685] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05May2026 21:47:05.740] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, inventorysorter-1.16.1-18.1.0.jar, OtyacraftEngine-1.16.5-1.23.jar, mowziesmobs-1.5.27.jar, Cucumber-1.16.5-4.1.12.jar, cgm-1.2.6-1.16.5.jar, infernal-expansion-1.16.5-2.5.0.jar, jei-1.16.5-7.8.0.1013.jar, prefab-1.6.5.16.jar, xaerolib-forge-1.16.5-1.1.0.jar, abnormals_core-1.16.5-3.3.1.jar, libraryferret-forge-1.16.5-4.0.0.jar, immersive_aircraft-0.5.2+1.16.5-forge.jar, Waystones_1.16.5-7.6.4.jar, Clumps-6.0.0.28.jar, Controlling-7.0.0.29.jar, Placebo-1.16.5-4.7.1.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, Artifacts-1.16.5-2.10.6.jar, DungeonCrawl-1.16.5-2.3.12.jar, Bookshelf-Forge-1.16.5-10.4.33.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, u_team_core-forge-1.16.5-3.2.1.378.jar, Apotheosis-1.16.5-4.8.9A0.jar, takesapillage-1.0.3-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, fusion-1.2.12-forge-mc1.16.jar, watut-forge-1.16.5-1.0.14.jar, CrashAssistant-forge-1.16.1-1.16.5-1.11.8.jar, Paraglider-1.16.5-1.3.2.14.jar, forge-1.16.5-36.2.42-universal.jar, endergetic-1.16.5-3.0.2.jar, Prehistoric_Fauna-2.2.5.jar, twilightforest-1.16.5-4.0.870-universal.jar, emojiful-1.16.4-2.1.6.jar, embeddium-0.1.1+mc1.16.5.jar, MysticalAgriculture-1.16.5-4.2.6.jar, ironchest-1.16.5-11.2.21.jar, infernalmobs-1.16.2.1.jar, FarmersDelight-1.16.5-0.6.0.jar, EnchantmentDescriptions-1.16.5-7.1.27.jar, ImmersiveEngineering-1.16.5-5.1.0-148.jar, CreativeCore_v2.2.1_mc1.16.5.jar, Chunky-1.2.123.jar, supermartijn642corelib-1.1.21-forge-mc1.16.jar, Botania-1.16.5-420.3.jar, easy_villagers-1.16.5-1.0.13.jar, L_Enders Cataclysm-0.48 Changed Theme -1.16.5.jar, farmersrespite-1.16.5-1.1.jar, curios-forge-1.16.5-4.1.0.0.jar, SpartanShields-1.16.5-2.1.2.jar, savageandravage-1.16.5-3.2.0.jar, Patchouli-1.16.4-53.3.jar, xaerominimap-forge-1.16.5-25.3.10.jar, rats-7.2.0-1.16.5.jar, [1.16.5] SecurityCraft v1.10.1.jar, StorageDrawers-1.16.3-8.5.2.jar, ToughAsNails-1.16.5-4.1.0.9-universal.jar, bettervillage-forge-1.16.5-3.3.1.jar, tombstone-1.16.5-6.9.7.jar, obfuscate-0.6.3-1.16.5.jar, vehicle-mod-0.45.2-1.16.3.jar, coroutil-forge-1.16.5-1.3.6.jar, SpartanWeaponry-1.16.5-2.2.2.jar, nethers_delight-2.1.jar, lootr-1.16.5-0.2.19.52.jar, ferritecore-2.1.1-forge.jar, connectedglass-1.1.14-forge-mc1.16.jar, PuzzlesLib-v1.0.15-1.16.5-Forge.jar, Aquaculture-1.16.5-2.1.23.jar, FallingTree-1.16.5-2.11.7.jar, expandability-2.0.1-forge.jar, CosmeticArmorReworked-1.16.5-v5a.jar, GameMenuModOption-1.16.4-1.8.2.jar, veinmining-forge-1.16.5-0.16.jar, geckolib-forge-1.16.5-3.0.106.jar, ars_nouveau-1.16.5-1.25.10.jar, EnchantingInfuser-v1.0.2-1.16.5-Forge.jar, drinkbeer-1.16.5-2.3.5.jar
+[05May2026 21:47:10.843] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Loot Modification Manager has loaded 5 sets of modifiers
+[05May2026 21:47:10.939] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe nethers_delight:mimicry/abnormals/endergetic/bollom_fruit_mimic
+com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bollom_fruit'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at vectorwing.farmersdelight.crafting.CookingPotRecipe$Serializer.readIngredients(CookingPotRecipe.java:156) ~[farmersdelight:1.16.5-0.6.0]
+	at vectorwing.farmersdelight.crafting.CookingPotRecipe$Serializer.fromJson(CookingPotRecipe.java:138) ~[farmersdelight:1.16.5-0.6.0]
+	at vectorwing.farmersdelight.crafting.CookingPotRecipe$Serializer.func_199425_a_(CookingPotRecipe.java:129) ~[farmersdelight:1.16.5-0.6.0]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[05May2026 21:47:11.018] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tungsten_ingot as it's serializer returned null
+[05May2026 21:47:11.073] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/mithril_ingot as it's serializer returned null
+[05May2026 21:47:11.092] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/tin_ingot as it's serializer returned null
+[05May2026 21:47:11.119] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/iridium_ingot as it's serializer returned null
+[05May2026 21:47:11.122] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/zinc_ingot as it's serializer returned null
+[05May2026 21:47:11.180] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/bronze_ingot as it's serializer returned null
+[05May2026 21:47:11.186] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/invar_ingot as it's serializer returned null
+[05May2026 21:47:11.194] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/ruby as it's serializer returned null
+[05May2026 21:47:11.203] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe rats:dragon_wing_iaf
+com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[05May2026 21:47:11.218] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/niter as it's serializer returned null
+[05May2026 21:47:11.232] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/chrome_ingot as it's serializer returned null
+[05May2026 21:47:11.237] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe vehicle:boost_ramp
+com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[05May2026 21:47:11.245] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe miningmaster:forging/kinetic_tongue_whip as it's serializer returned null
+[05May2026 21:47:11.293] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/silicon as it's serializer returned null
+[05May2026 21:47:11.299] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe vehicle:steep_boost_ramp
+com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[05May2026 21:47:11.352] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/gems/apatite as it's serializer returned null
+[05May2026 21:47:11.361] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/brass_ingot as it's serializer returned null
+[05May2026 21:47:11.435] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe vehicle:boost_pad
+com.google.gson.JsonSyntaxException: Unknown item 'vehicle:boost_pad'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[05May2026 21:47:11.440] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/titanium_ingot as it's serializer returned null
+[05May2026 21:47:11.509] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/rubber as it's serializer returned null
+[05May2026 21:47:11.533] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/platinum_ingot as it's serializer returned null
+[05May2026 21:47:11.549] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe mysticalagriculture:essence/common/graphite_ingot as it's serializer returned null
+[05May2026 21:47:11.586] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 55 recipes
+[05May2026 21:47:11.675] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Skipped advancement modifier "criteria" for advancement "minecraft:adventure/voluntary_exile" as its conditions were not met
+[05May2026 21:47:11.675] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Skipped advancement modifier "display" for advancement "minecraft:adventure/voluntary_exile" as its conditions were not met
+[05May2026 21:47:11.676] [Worker-Main-4/INFO] [com.minecraftabnormals.abnormals_core.core.AbnormalsCore/]: Advancement Modification Manager has loaded 7 sets of modifiers
+[05May2026 21:47:12.312] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[05May2026 21:47:12.658] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[05May2026 21:47:13.440] [Worker-Main-4/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[05May2026 21:47:13.680] [Worker-Main-4/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table rats:christmas_rat_gifts
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'rats:rat_diamond'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1337) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[05May2026 21:47:14.054] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[05May2026 21:47:14.057] [Worker-Main-4/INFO] [placebo/]: Registered 22 additional loot tables.
+[05May2026 21:47:14.399] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4893 advancements
+[05May2026 21:47:14.415] [Worker-Main-4/INFO] [placebo/]: Registered 37 additional recipes.
+[05May2026 21:47:14.422] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
+[05May2026 21:47:15.403] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
+[05May2026 21:47:15.409] [Worker-Main-4/INFO] [Apotheosis : Deadly/]: Loaded 28 affix loot entries from resources.
+[05May2026 21:47:15.415] [Worker-Main-4/INFO] [Apotheosis : Deadly/]: Registered 6 boss gear sets.
+[05May2026 21:47:15.423] [Worker-Main-4/INFO] [Apotheosis : Deadly/]: Loaded 6 boss items from resources.
+[05May2026 21:47:15.429] [Worker-Main-4/INFO] [Apotheosis : Deadly/]: Loaded 8 spawner items from resources.
+[05May2026 21:47:15.999] [Worker-Main-4/INFO] [immersiveengineering/]: Couldn't fully analyze 1 club_studded, missing knowledge for {1 club_wood=1.0}
+[05May2026 21:47:15.999] [Worker-Main-4/INFO] [immersiveengineering/]: Couldn't fully analyze 1 cestus_studded, missing knowledge for {1 cestus=1.0}
+[05May2026 21:47:15.999] [Worker-Main-4/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 492 milliseconds
+[05May2026 21:47:16.103] [Worker-Main-4/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[05May2026 21:47:16.103] [Worker-Main-4/ERROR] [bettervillage/]: Immersive Engineering compatibility is not enabled for Better Village and Immersive Engineering is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Immersive Engineering.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[05May2026 21:47:16.105] [Worker-Main-4/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
+[05May2026 21:47:16.108] [Worker-Main-4/INFO] [Apotheosis : Enchantment/]: Registered 18 enchanting_stats.
+[05May2026 21:47:16.128] [Worker-Main-4/INFO] [Apotheosis : Village/]: Loaded 13 normal and 13 rare Wandering Trader trade options.
+[05May2026 21:47:16.219] [Worker-Main-4/INFO] [immersiveengineering/]: Recipes for potions: minecraft:luck, alexsmobs:long_clinging, minecraft:poison, minecraft:long_strength, apotheosis:strong_wither, alexsmobs:long_lava_vision, alexsmobs:long_knockback_resistance, tombstone:spectral, minecraft:harming, alexsmobs:soulsteal, minecraft:strong_turtle_master, apotheosis:strong_knowledge, minecraft:strong_regeneration, alexsmobs:speed_iii, minecraft:regeneration, apotheosis:strong_haste, minecraft:strong_slowness, minecraft:strong_strength, apotheosis:strong_resistance, infernalexp:luminous, infernalexp:infection, apotheosis:long_fatigue, minecraft:fire_resistance, alexsmobs:lava_vision, apotheosis:knowledge, minecraft:thick, alexsmobs:long_bug_pheromones, minecraft:long_invisibility, apotheosis:long_absorption, minecraft:long_swiftness, apotheosis:long_knowledge, apotheosis:strong_absorption, minecraft:weakness, apotheosis:absorption, minecraft:long_night_vision, minecraft:awkward, alexsmobs:knockback_resistance, minecraft:long_leaping, mowziesmobs:long_poison_resist, minecraft:invisibility, apotheosis:sundering, minecraft:long_water_breathing, apotheosis:strong_fatigue, ars_nouveau:mana_regen_potion_long, minecraft:strength, minecraft:long_slow_falling, minecraft:turtle_master, minecraft:slow_falling, infernalexp:strong_luminous, alexsmobs:bug_pheromones, alexsmobs:strong_knockback_resistance, minecraft:strong_leaping, minecraft:night_vision, minecraft:water_breathing, apotheosis:long_wither, infernalexp:strong_infection, minecraft:strong_harming, minecraft:long_fire_resistance, alexsmobs:poison_resistance, minecraft:water, apotheosis:strong_sundering, minecraft:long_slowness, ars_nouveau:spell_damage_strong, infernalexp:long_luminous, minecraft:long_regeneration, alexsmobs:long_poison_resistance, ars_nouveau:mana_regen_potion_strong, minecraft:leaping, minecraft:slowness, apotheosis:fatigue, minecraft:strong_swiftness, minecraft:healing, minecraft:strong_healing, apotheosis:resistance, minecraft:long_turtle_master, apotheosis:long_sundering, apotheosis:long_resistance, ars_nouveau:mana_regen_potion, ars_nouveau:spell_damage, minecraft:mundane, minecraft:long_weakness, apotheosis:haste, apotheosis:long_haste, minecraft:strong_poison, alexsmobs:long_soulsteal, ars_nouveau:spell_damage_long, minecraft:long_poison, mowziesmobs:poison_resist, apotheosis:wither, minecraft:swiftness, alexsmobs:strong_soulsteal, alexsmobs:clinging, infernalexp:long_infection
+[05May2026 21:47:20.159] [main/ERROR] [net.minecraft.world.storage.SaveFormat/]: WorldGenSettings: Value -1 outside of range [0:4096] missed input: {"cataclysm:ruined_citadel":{spacing:30,salt:367895146,separation:-1}}; Value -1 outside of range [0:4096] missed input: {"cataclysm:ruined_citadel":{spacing:30,salt:367895146,separation:-1}}; Value -1 outside of range [0:4096] missed input: {"cataclysm:ruined_citadel":{spacing:30,salt:367895146,separation:-1}} missed input: {"prehistoricfauna:cretaceous_dimension":{generator:{settings:{disable_mob_generation:0b,default_fluid:{Properties:{level:"0"},Name:"minecraft:water"},bedrock_roof_position:-10,structures:{structures:{"infernalexp:bastion_outpost":{spacing:3,salt:720435943,separation:1},"takesapillage:bastille":{spacing:32,salt:789775274,separation:12},"cataclysm:burning_arena":{spacing:112,salt:1923456789,separation:70},"infernalexp:glowstone_canyon_ruin":{spacing:1,salt:20394857,separation:0},"prehistoricfauna:hell_creek_hut":{spacing:30,salt:420,separation:10},"takesapillage:pillager_camp":{spacing:32,salt:10520565,separation:12},"cataclysm:ruined_citadel":{spacing:30,salt:367895146,separation:-1},"prehistoricfauna:geologist_camp":{spacing:50,salt:37126163,separation:25},"cataclysm:soul_black_smith":{spacing:90,salt:1984567320,separation:70},"prehistoricfauna:chinle_hut":{spacing:60,salt:485726216,separation:40},"prehistoricfauna:djadochta_hut":{spacing:60,salt:294837281,separation:40},"paraglider:tarrey_town_goddess_statue":{spacing:32,salt:850796625,separation:8},"paraglider:nether_horned_statue":{spacing:32,salt:1973135446,separation:8},"prehistoricfauna:kayenta_hut":{spacing:60,salt:2847238,separation:40},"infernalexp:strider_altar":{spacing:10,salt:80837592,separation:5},"prehistoricfauna:time_temple":{spacing:100,salt:8237163,separation:75},"prehistoricfauna:ischigualasto_hut":{spacing:60,salt:29578373,separation:40},"prehistoricfauna:morrison_hut":{spacing:60,salt:476256184,separation:40},"paraglider:underground_horned_statue":{spacing:16,salt:49788929,separation:8},"prehistoricfauna:portal_chamber":{spacing:30,salt:420,separation:10},"infernalexp:soul_sand_valley_ruin":{spacing:4,salt:29456392,separation:2}}},noise:{size_horizontal:1,size_vertical:2,top_slide:{size:3,offset:0,target:-10},density_offset:-0.46875d,sampling:{y_scale:0.9999999814507745d,y_factor:160.0d,xz_scale:0.9999999814507745d,xz_factor:80.0d},random_density_offset:1b,bottom_slide:{size:0,offset:0,target:-30},simplex_surface_noise:0b,density_factor:1.0d,height:256},sea_level:63,default_block:{Name:"minecraft:stone"},bedrock_floor_position:0},seed:5229998432586941230L,biome_source:{seed:5229998432586941230L,type:"prehistoricfauna:cretaceous_dimension"},type:"prehistoricfauna:chunk_generator"},type:"prehistoricfauna:cretaceous_dimension"},"prehistoricfauna:jurassic_dimension":{generator:{settings:{disable_mob_generation:0b,default_fluid:{Properties:{level:"0"},Name:"minecraft:water"},bedrock_roof_position:-10,structures:{structures:{"infernalexp:bastion_outpost":{spacing:3,salt:720435943,separation:1},"takesapillage:bastille":{spacing:32,salt:789775274,separation:12},"cataclysm:burning_arena":{spacing:112,salt:1923456789,separation:70},"infernalexp:glowstone_canyon_ruin":{spacing:1,salt:20394857,separation:0},"prehistoricfauna:hell_creek_hut":{spacing:60,salt:42773854,separation:40},"takesapillage:pillager_camp":{spacing:32,salt:10520565,separation:12},"cataclysm:ruined_citadel":{spacing:30,salt:367895146,separation:-1},"prehistoricfauna:geologist_camp":{spacing:50,salt:37126163,separation:25},"cataclysm:soul_black_smith":{spacing:90,salt:1984567320,separation:70},"prehistoricfauna:chinle_hut":{spacing:60,salt:485726216,separation:40},"prehistoricfauna:djadochta_hut":{spacing:60,salt:294837281,separation:40},"paraglider:tarrey_town_goddess_statue":{spacing:32,salt:850796625,separation:8},"paraglider:nether_horned_statue":{spacing:32,salt:1973135446,separation:8},"prehistoricfauna:kayenta_hut":{spacing:60,salt:2847238,separation:40},"infernalexp:strider_altar":{spacing:10,salt:80837592,separation:5},"prehistoricfauna:time_temple":{spacing:100,salt:8237163,separation:75},"prehistoricfauna:ischigualasto_hut":{spacing:60,salt:29578373,separation:40},"prehistoricfauna:morrison_hut":{spacing:30,salt:420,separation:10},"paraglider:underground_horned_statue":{spacing:16,salt:49788929,separation:8},"prehistoricfauna:portal_chamber":{spacing:30,salt:420,separation:10},"infernalexp:soul_sand_valley_ruin":{spacing:4,salt:29456392,separation:2}}},noise:{size_horizontal:1,size_vertical:2,top_slide:{size:3,offset:0,target:-10},density_offset:-0.46875d,sampling:{y_scale:0.9999999814507745d,y_factor:160.0d,xz_scale:0.9999999814507745d,xz_factor:80.0d},random_density_offset:1b,bottom_slide:{size:0,offset:0,target:-30},simplex_surface_noise:0b,density_factor:1.0d,height:256},sea_level:63,default_block:{Name:"minecraft:stone"},bedrock_floor_position:0},seed:5229998432586941230L,biome_source:{seed:5229998432586941230L,type:"prehistoricfauna:jurassic_dimension"},type:"prehistoricfauna:chunk_generator"},type:"prehistoricfauna:jurassic_dimension"},"prehistoricfauna:triassic_dimension":{generator:{settings:{disable_mob_generation:0b,default_fluid:{Properties:{level:"0"},Name:"minecraft:water"},bedrock_roof_position:-10,structures:{structures:{"infernalexp:bastion_outpost":{spacing:3,salt:720435943,separation:1},"takesapillage:bastille":{spacing:32,salt:789775274,separation:12},"cataclysm:burning_arena":{spacing:112,salt:1923456789,separation:70},"infernalexp:glowstone_canyon_ruin":{spacing:1,salt:20394857,separation:0},"prehistoricfauna:hell_creek_hut":{spacing:60,salt:42773854,separation:40},"takesapillage:pillager_camp":{spacing:32,salt:10520565,separation:12},"cataclysm:ruined_citadel":{spacing:30,salt:367895146,separation:-1},"prehistoricfauna:geologist_camp":{spacing:50,salt:37126163,separation:25},"cataclysm:soul_black_smith":{spacing:90,salt:1984567320,separation:70},"prehistoricfauna:chinle_hut":{spacing:60,salt:485726216,separation:40},"prehistoricfauna:djadochta_hut":{spacing:60,salt:294837281,separation:40},"paraglider:tarrey_town_goddess_statue":{spacing:32,salt:850796625,separation:8},"paraglider:nether_horned_statue":{spacing:32,salt:1973135446,separation:8},"prehistoricfauna:kayenta_hut":{spacing:60,salt:2847238,separation:40},"infernalexp:strider_altar":{spacing:10,salt:80837592,separation:5},"prehistoricfauna:time_temple":{spacing:100,salt:8237163,separation:75},"prehistoricfauna:ischigualasto_hut":{spacing:30,salt:420,separation:10},"prehistoricfauna:morrison_hut":{spacing:60,salt:476256184,separation:40},"paraglider:underground_horned_statue":{spacing:16,salt:49788929,separation:8},"prehistoricfauna:portal_chamber":{spacing:30,salt:420,separation:10},"infernalexp:soul_sand_valley_ruin":{spacing:4,salt:29456392,separation:2}}},noise:{size_horizontal:1,size_vertical:2,top_slide:{size:3,offset:0,target:-10},density_offset:-0.46875d,sampling:{y_scale:0.9999999814507745d,y_factor:160.0d,xz_scale:0.9999999814507745d,xz_factor:80.0d},random_density_offset:1b,bottom_slide:{size:0,offset:0,target:-30},simplex_surface_noise:0b,density_factor:1.0d,height:256},sea_level:63,default_block:{Name:"minecraft:stone"},bedrock_floor_position:0},seed:5229998432586941230L,biome_source:{seed:5229998432586941230L,type:"prehistoricfauna:triassic_dimension"},type:"prehistoricfauna:chunk_generator"},type:"prehistoricfauna:triassic_dimension"}}
+[05May2026 21:47:23.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[05May2026 21:47:23.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05May2026 21:47:23.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05May2026 21:47:23.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05May2026 21:47:23.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05May2026 21:47:23.650] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[05May2026 21:47:23.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05May2026 21:47:23.792] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05May2026 21:47:23.793] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05May2026 21:47:23.793] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05May2026 21:47:23.942] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[05May2026 21:47:23.944] [Thread-0/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[05May2026 21:47:23.959] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching net/minecraft/entity/merchant/villager/VillagerTrades$EnchantedBookForEmeraldsTrade
+[05May2026 21:47:23.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "LOS CHIGGAS MODEADOS"
+[05May2026 21:47:24.209] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if minecraft:overworld is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.585] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityVoidWorm from class com.github.alexthe666.alexsmobs.entity.EntityVoidPortal
+[05May2026 21:47:24.792] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class net.minecraft.entity.passive.TameableEntity from interface com.hollingsworth.arsnouveau.api.IFollowingSummon
+[05May2026 21:47:24.866] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if minecraft:the_nether is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.874] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if minecraft:the_end is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.876] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if twilightforest:twilightforest is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.877] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if twilightforest:skylight_forest is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.880] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if prehistoricfauna:cretaceous_dimension is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.882] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if prehistoricfauna:jurassic_dimension is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.884] [Server thread/ERROR] [superlord.prehistoricfauna.PrehistoricFauna/]: Was unable to check if prehistoricfauna:triassic_dimension is using Terraforged's ChunkGenerator
+[05May2026 21:47:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05May2026 21:47:26.018] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05May2026 21:47:26.019] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05May2026 21:47:26.019] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05May2026 21:47:26.406] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_shovel
+[05May2026 21:47:26.406] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_pickaxe
+[05May2026 21:47:26.407] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_axe
+[05May2026 21:47:26.407] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_sword
+[05May2026 21:47:26.407] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_hoe
+[05May2026 21:47:26.407] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_helmet
+[05May2026 21:47:26.408] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_boots
+[05May2026 21:47:26.408] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_chestplate
+[05May2026 21:47:26.408] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_leggings
+[05May2026 21:47:26.408] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_helmet
+[05May2026 21:47:26.408] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_boots
+[05May2026 21:47:26.409] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_chestplate
+[05May2026 21:47:26.409] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_leggings
+[05May2026 21:47:26.409] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 cookie
+[05May2026 21:47:26.409] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[05May2026 21:47:26.409] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_hoe
+[05May2026 21:47:26.409] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 bow
+[05May2026 21:47:26.410] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_helmet
+[05May2026 21:47:26.410] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_boots
+[05May2026 21:47:26.410] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_chestplate
+[05May2026 21:47:26.410] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_leggings
+[05May2026 21:47:26.410] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_helmet
+[05May2026 21:47:26.411] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_boots
+[05May2026 21:47:26.411] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_chestplate
+[05May2026 21:47:26.411] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 iron_leggings
+[05May2026 21:47:26.411] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 golden_helmet
+[05May2026 21:47:26.411] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 golden_boots
+[05May2026 21:47:26.412] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 golden_chestplate
+[05May2026 21:47:26.412] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 golden_leggings
+[05May2026 21:47:26.412] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 golden_apple
+[05May2026 21:47:26.412] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 blaze_powder
+[05May2026 21:47:26.412] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 enchanted_book
+[05May2026 21:47:26.413] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[05May2026 21:47:26.413] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 enchanted_book
+[05May2026 21:47:26.413] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond
+[05May2026 21:47:26.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_sword
+[05May2026 21:47:26.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_axe
+[05May2026 21:47:26.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_hoe
+[05May2026 21:47:26.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_pickaxe
+[05May2026 21:47:26.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_shovel
+[05May2026 21:47:26.418] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_helmet
+[05May2026 21:47:26.418] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_boots
+[05May2026 21:47:26.418] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_chestplate
+[05May2026 21:47:26.420] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 chainmail_leggings
+[05May2026 21:47:26.421] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_helmet
+[05May2026 21:47:26.421] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_boots
+[05May2026 21:47:26.421] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_chestplate
+[05May2026 21:47:26.421] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 diamond_leggings
+[05May2026 21:47:26.421] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser identified itemstack 1 ender_pearl
+[05May2026 21:47:26.422] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[05May2026 21:47:26.422] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
+[05May2026 21:47:26.423] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/server-de-modsitosss/servidor_minecraft/./config/infernalmobs.cfg
+[05May2026 21:47:28.768] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05May2026 21:47:28.769] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05May2026 21:47:28.769] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05May2026 21:47:28.769] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05May2026 21:47:28.769] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05May2026 21:47:28.889] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[05May2026 21:47:29.390] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[05May2026 21:47:29.896] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[05May2026 21:47:30.391] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[05May2026 21:47:30.691] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=135, y=41, z=188}
+[05May2026 21:47:30.892] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[05May2026 21:47:31.054] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6166 ms
+[05May2026 21:47:31.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.195s)! For help, type "help"
+[05May2026 21:47:31.204] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[05May2026 21:47:31.211] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[05May2026 21:47:31.212] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[05May2026 21:51:47.117] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29e04dda
+[05May2026 21:51:47.170] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Bardosius[/127.196.69.41:47429] logged in with entity id 1061 at (128.52261998649897, 63.0, -27.84284578999511)
+[05May2026 21:51:47.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bardosius joined the game
+[05May2026 21:51:47.461] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b64ac42
+[05May2026 21:51:47.489] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Bardosius'.
+[05May2026 21:51:47.511] [Server thread/INFO] [Waila/]: Syncing config to Bardosius (32afc210-3798-3e6c-992e-cbfeebbd9089)
+[05May2026 21:51:47.585] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1990f6e5 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[05May2026 21:51:47.586] [Netty Epoll Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@128d95a5 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[05May2026 21:51:49.308] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=251, y=23, z=-214}
+[05May2026 21:51:49.309] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: already registered at BlockPos{x=252, y=23, z=-216}
+[05May2026 21:51:55.974] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching CombatRules#getDamageAfterMagicAbsorb
+[05May2026 21:52:02.581] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Bardosius lost connection: Timed out
+[05May2026 21:52:02.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bardosius left the game
+[05May2026 21:52:02.652] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05May2026 21:52:31.612] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]; Value -1 outside of range [0:4096]; Value -1 outside of range [0:4096]
+[05May2026 21:52:43.822] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@34dd950e
+[05May2026 21:52:43.846] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Bardosius[/127.196.69.41:35043] logged in with entity id 1089 at (128.52261998649897, 63.0, -27.84284578999511)
+[05May2026 21:52:43.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bardosius joined the game
+[05May2026 21:52:43.914] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d820210
+[05May2026 21:52:43.935] [Server thread/INFO] [com.wuest.prefab.Prefab/]: Sent config to 'Bardosius'.
+[05May2026 21:52:43.936] [Server thread/INFO] [Waila/]: Syncing config to Bardosius (32afc210-3798-3e6c-992e-cbfeebbd9089)
+[05May2026 21:52:44.019] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@1990f6e5 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[05May2026 21:52:44.019] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@128d95a5 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[05May2026 21:55:09.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Bardosius: Created new objective [BELLOTEADAS]]
+[05May2026 21:55:22.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Bardosius: Set display slot list to show objective BELLOTEADAS]
+[05May2026 21:55:33.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Bardosius: Set display slot sidebar to show objective BELLOTEADAS]
+[05May2026 21:55:46.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Bardosius: Set display slot belowName to show objective BELLOTEADAS]
+[05May2026 21:56:34.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Bardosius: Changed the display name of Muertes to [☠ BELLOTEDAS ☠]]
+[05May2026 21:57:31.424] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]; Value -1 outside of range [0:4096]; Value -1 outside of range [0:4096]
+[05May2026 21:58:11.176] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Bardosius lost connection: Disconnected
+[05May2026 21:58:11.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Bardosius left the game
+[05May2026 21:58:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05May2026 21:58:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05May2026 21:58:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05May2026 21:58:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/minecraft:overworld
+[05May2026 21:58:19.512] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (LOS CHIGGAS MODEADOS): All chunks are saved
+[05May2026 21:58:19.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/minecraft:the_nether
+[05May2026 21:58:19.514] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2026 21:58:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/minecraft:the_end
+[05May2026 21:58:19.515] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2026 21:58:19.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/twilightforest:twilightforest
+[05May2026 21:58:19.516] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[05May2026 21:58:19.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/twilightforest:skylight_forest
+[05May2026 21:58:19.517] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[05May2026 21:58:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/prehistoricfauna:cretaceous_dimension
+[05May2026 21:58:19.517] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (cretaceous_dimension): All chunks are saved
+[05May2026 21:58:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/prehistoricfauna:jurassic_dimension
+[05May2026 21:58:19.518] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jurassic_dimension): All chunks are saved
+[05May2026 21:58:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[LOS CHIGGAS MODEADOS]'/prehistoricfauna:triassic_dimension
+[05May2026 21:58:19.519] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (triassic_dimension): All chunks are saved
+[05May2026 21:58:19.521] [Server thread/ERROR] [net.minecraft.world.storage.ServerWorldInfo/]: WorldGenSettings: Value -1 outside of range [0:4096]; Value -1 outside of range [0:4096]; Value -1 outside of range [0:4096]
+[05May2026 21:58:19.606] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (LOS CHIGGAS MODEADOS): All chunks are saved
+[05May2026 21:58:19.618] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05May2026 21:58:19.619] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05May2026 21:58:19.619] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[05May2026 21:58:19.622] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[05May2026 21:58:19.623] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (cretaceous_dimension): All chunks are saved
+[05May2026 21:58:19.626] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (jurassic_dimension): All chunks are saved
+[05May2026 21:58:19.627] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (triassic_dimension): All chunks are saved
